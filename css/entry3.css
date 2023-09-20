@@ -1,0 +1,31 @@
+body{
+    font-family: 'Prata', serif;
+    background-color: beige;
+    color: #b52016;
+    margin: 20px
+}
+h2{
+    font-family: 'Fasthand', cursive;
+    font-size: 50px;
+    margin: 20px
+}
+h2:hover{
+    color:peru;
+    font-size: 70px;
+}
+hr{
+    border-top: 5px dotted;
+    border-bottom: 0px;
+}
+a{
+    color: #b52016;
+}
+a:hover{
+    color: peru;
+    font-size: 20px;
+}
+#text-border{
+    border: 5px dotted;
+    padding: 20px;
+    border-radius: 10px;
+}

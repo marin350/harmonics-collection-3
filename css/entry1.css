@@ -1,0 +1,34 @@
+body{
+    font-family: 'Prata', serif;
+    background-color: #455db5;
+    color: beige;
+}
+h2{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 30px;
+}
+h2:hover{
+    color: #fcd068;
+    font-size: 50px;
+}
+a{
+    color: beige;
+}
+a:hover{
+    color: #fcd068;
+    font-size: 20px;
+}
+div{
+    margin: 30px;
+}
+.text-border{
+    border: 2px dotted beige;
+    border-radius: 10px;
+    padding: 20px
+}
+#img-border{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
